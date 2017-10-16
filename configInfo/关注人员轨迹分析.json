@@ -2,15 +2,15 @@
   "base": {
     "name": "关注人员轨迹分析",
     "url": "http://192.168.1.6:8124/personnelTrack/html/index.html",
-    "desc": "贵州警局"
+    "desc": "关注人员轨迹分析"
   },
   "schedule": {
-    "status": "开发中",
+    "status": "已完成",
     "actualStartTime": "2017-09-30",
     "actualEndTime": "未定",
     "estimatedStartTime": "2017-09-30",
     "estimatedEndTime": "",
-    "process": 30,                    
+    "process": 100,                    
     "delay": false,
     "technology":["jQuery"]
   },

@@ -9,10 +9,10 @@
     "actualStartTime": "2017-09-30",
     "actualEndTime": "未定",
     "estimatedStartTime": "2017-09-30",
-    "estimatedEndTime": "",
+    "estimatedEndTime": "2017-10-15",
     "process": 30,                    
     "delay": false,
-    "technology":["jQuery"]
+    "technology":["jquery","gulp"]     
   },
   "resources": {
     "demander": "贵州警局",
